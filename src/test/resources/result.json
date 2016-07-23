@@ -1,0 +1,55 @@
+[
+  {
+    "_id": 376217,
+    "key": null,
+    "name": "Berlin",
+    "fullName": "Berlin, Germany",
+    "iata_airport_code": null,
+    "type": "location",
+    "country": "Germany",
+    "geo_position": {
+      "latitude": 52.52437,
+      "longitude": 13.41053
+    },
+    "locationId": 8384,
+    "inEurope": true,
+    "countryId": 56,
+    "countryCode": "DE",
+    "coreCountry": true,
+    "distance": null,
+    "names": {
+      "pt": "Berlim",
+      "ru": "Берлин",
+      "it": "Berlino",
+      "is": "Berlín",
+      "fi": "Berliini",
+      "es": "Berlín",
+      "zh": "柏林",
+      "cs": "Berlín",
+      "ca": "Berlín",
+      "nl": "Berlijn"
+    },
+    "alternativeNames": {}
+  },
+  {
+    "_id": 448103,
+    "key": null,
+    "name": "Berlingo",
+    "fullName": "Berlingo, Italy",
+    "iata_airport_code": null,
+    "type": "location",
+    "country": "Italy",
+    "geo_position": {
+      "latitude": 45.50298,
+      "longitude": 10.04366
+    },
+    "locationId": 147721,
+    "inEurope": true,
+    "countryId": 106,
+    "countryCode": "IT",
+    "coreCountry": true,
+    "distance": null,
+    "names": {},
+    "alternativeNames": {}
+  }
+]
